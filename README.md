@@ -1,0 +1,1 @@
+This project includes scraping imdb site going three levels deep. My spider gathers data from different levels by following links and finally outputing the data into a comma delimited JSON file which is ready to beconverted to another file type or loaded into a data analysis tool such as Python's Numpy or Excel. 
